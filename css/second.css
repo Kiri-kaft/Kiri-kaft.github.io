@@ -1,0 +1,26 @@
+@charset "utf-8";
+
+*{
+    background-color: midnightblue;
+}
+
+#top{
+    color: blueviolet;
+}
+
+#bunn{
+    color: aqua;
+    font-size: 1.2rem;
+}
+
+
+#start{
+    color: antiquewhite;
+    font-size: 2.0rem;
+}
+
+#link{
+    color:  darkorange;
+    font-size: 1.5rem;
+}
+
